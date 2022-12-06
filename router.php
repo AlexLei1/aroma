@@ -35,3 +35,5 @@ if ($url[1] == "blog") {
 if (!empty($content))
   require_once("template.php");
 
+	//require_once - 
+	//file_get_contents - 
